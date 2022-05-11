@@ -1,0 +1,16 @@
+.manga-container{
+
+}
+
+.manga-container .manga-photo {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.manga-container .manga-photo .count {
+    display: flex;
+    justify-content: space-between;
+}
